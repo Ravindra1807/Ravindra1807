@@ -25,6 +25,7 @@
   <img src="https://trophy.ryglcloud.net/?username=Ravindra1807&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ravindra Kumar's GitHub Trophies" />
 </p>
 
+    <img src="https://komarev.com/ghpvc/?username=Ravindra1807&label=Profile%20views&color=00FFFF&style=flat-square" alt="Ravindra1807's profile views" />
 
 ## 🛠️ Languages & Tools
 
