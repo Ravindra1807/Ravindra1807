@@ -4,15 +4,15 @@
 
 <img src="https://camo.githubusercontent.com/3ed8827eb1d70a15644f679df28e4ebe79039b56d07ff09bf8dbdd6cb7b919e8/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66622f63362f66332f66626336663331626433623834313539343730623937336163613765306639372e676966" alt="Banner" width="100%" />
 
-<h1 color="red">📌 About Me  </h1>
+<h2 >📌 About Me  </h2>
 - Currently learning Java & GitHub - Exploring Java 8 features and backend development - Interested in Android Studio and modern tech
 
+<h2 >🧠 My Focus Areas </h2>
 
-## 🧠 My Focus Areas
 - Java 8 Features , Git & GitHub, Android Studio
 
+<h2> 📊 GitHub Stats & Trophies</h2>
 
-## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Ravindra1807">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ravindra1807&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Ravindra1807's GitHub Stats" />
@@ -23,8 +23,7 @@
   <img src="https://trophy.ryglcloud.net/?username=Ravindra1807&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ravindra Kumar's GitHub Trophies" />
 </p>
 
-
-## 🛠️ Languages & Tools
+<h2>🛠️ Language & Tools </h2>
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -55,7 +54,8 @@
   </a>
 </p>
 
-## 🔗 Connect with Me
+<h2>🔗 Connect with Me <h2/>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ravindra-kumar-a95761385?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
