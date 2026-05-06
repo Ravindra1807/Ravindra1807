@@ -53,6 +53,12 @@
 
 </p>
 
+<p align="center">
+  <a href="https://github.com/Ravindra1807">
+    <img height="100px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ravindra1807&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Skills" />
+  </a>
+</p>
+
 
 ## 🔗 Connect with Me
 <p align="center">
