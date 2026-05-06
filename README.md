@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="Banner" width="100%" />
+
 
 ## 📌 About Me
 - Currently learning Java & GitHub - Exploring Java 8 features and backend development - Interested in Android Studio and modern tech
