@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ravindra%20Kumar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Java%20Core%20in%20Progress%20%E2%98%95%20%7C%20Target%3A%20Full%20Stack%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
-
-
-  
-
 <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
@@ -25,7 +21,6 @@
   <img src="https://trophy.ryglcloud.net/?username=Ravindra1807&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ravindra Kumar's GitHub Trophies" />
 </p>
 
-    <img src="https://komarev.com/ghpvc/?username=Ravindra1807&label=Profile%20views&color=00FFFF&style=flat-square" alt="Ravindra1807's profile views" />
 
 ## 🛠️ Languages & Tools
 
