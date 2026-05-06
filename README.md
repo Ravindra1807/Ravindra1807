@@ -4,7 +4,7 @@
 
 <img src="https://camo.githubusercontent.com/3ed8827eb1d70a15644f679df28e4ebe79039b56d07ff09bf8dbdd6cb7b919e8/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66622f63362f66332f66626336663331626433623834313539343730623937336163613765306639372e676966" alt="Banner" width="100%" />
 
-## 📌 About Me
+<h1 color="red">📌 About Me  </h1>
 - Currently learning Java & GitHub - Exploring Java 8 features and backend development - Interested in Android Studio and modern tech
 
 
