@@ -4,14 +4,14 @@
 
 <img src="https://camo.githubusercontent.com/3ed8827eb1d70a15644f679df28e4ebe79039b56d07ff09bf8dbdd6cb7b919e8/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66622f63362f66332f66626336663331626433623834313539343730623937336163613765306639372e676966" alt="Banner" width="100%" />
 
-<h2 >📌 About Me  </h2>
+## 📌 About Me 
 - Currently learning Java & GitHub - Exploring Java 8 features and backend development - Interested in Android Studio and modern tech
 
-<h2 >🧠 My Focus Areas </h2>
+## 🧠 My Focus Areas 
 
 - Java 8 Features , Git & GitHub, Android Studio
 
-<h2> 📊 GitHub Stats & Trophies</h2>
+## 📊 GitHub Stats & Trophies
 
 <p align="center">
   <a href="https://github.com/Ravindra1807">
@@ -23,7 +23,7 @@
   <img src="https://trophy.ryglcloud.net/?username=Ravindra1807&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ravindra Kumar's GitHub Trophies" />
 </p>
 
-<h2>🛠️ Language & Tools </h2>
+## 🛠️ Language & Tools 
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -41,7 +41,7 @@
 
 </p>
 
-<h3 align="center">Tools</h3>
+<h3 align="center">Tools<H3/>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
@@ -54,7 +54,7 @@
   </a>
 </p>
 
-<h2>🔗 Connect with Me <h2/>
+## 🔗 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ravindra-kumar-a95761385?utm_source=share_via&utm_content=profile&utm_medium=member_android">
