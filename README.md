@@ -55,7 +55,6 @@
 </p>
 
 ## 🔗 Connect with Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ravindra-kumar-a95761385?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
